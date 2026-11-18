@@ -5,7 +5,7 @@
 
 ## 1. Project Overview & Research Objective
 
-The **Intelligent Emergency Evacuation Digital Twin** is a high-fidelity, research-grade evacuation modeling, routing, and simulation platform. It is engineered to evaluate, benchmark, and visualize evacuation dynamics under rapidly shifting spatial and environmental hazards (e.g., propagating fire, toxic smoke, structural obstructions).
+The **Intelligent Emergency Evacuation Digital Twin** is a spatial modeling and simulation framework for analyzing adaptive evacuation routing under time-varying environmental threats. It provides real-time visualization and quantitative benchmarking of pathfinding performance against propagating fire, smoke hazards, and dynamic structural obstructions.
 
 ### Core Research Question
 > **Can dynamic safety-aware and predictive load-aware routing algorithms significantly reduce Total Evacuation Time (TET), exit queue congestion, and cumulative hazardous exposure compared to conventional static shortest-path routing (e.g., standard A*) during building emergencies?**
